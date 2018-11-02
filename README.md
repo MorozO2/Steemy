@@ -5,5 +5,7 @@ Java mobile application designed for measuring the status of a sauna (uses Thing
 Created by:
 
 Kristofer Knutsen
+
 Vladimir Moroz 
+
 Jamie Yoon
