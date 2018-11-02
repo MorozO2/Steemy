@@ -4,8 +4,8 @@ Java mobile application designed for measuring the status of a sauna (uses Thing
 
 Created by:
 
-Kristofer Knutsen
+Kristofer Knutsen(https://github.com/BeeBeeCue)
 
-Vladimir Moroz 
+Jasmie Yoon
 
-Jamie Yoon
+Vladimir Moroz
